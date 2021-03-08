@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className='box-border m-0'>
       <Head>
-        <title>Create Next App</title>
+        <title>Movie Search App</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
