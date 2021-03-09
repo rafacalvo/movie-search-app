@@ -32,7 +32,7 @@ function SearchMovies() {
           className='px-5 py-2 bg-gray-200 md:rounded-l-md rounded-md my-2'
           type='text'
           name='query'
-          placeholder='i.e. Gone With Te Wind'
+          placeholder='i.e. Gone With The Wind'
           value={query}
           onChange={(e) => setQuery(e.target.value)}
         />
